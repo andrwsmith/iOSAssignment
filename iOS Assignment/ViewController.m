@@ -1109,7 +1109,7 @@ NSURL *url;
     imagePopRhythm.highlighted = YES; //Highlight ImageView when button is pressed.
 }
 
-//Button that plays Bossanova-style rhythm
+//Button that plays Bossanova rhythm
 - (IBAction)bossaRhythm:(UIButton *)sender
 {
     //If the rhythm player pointer is already playing, stop.
