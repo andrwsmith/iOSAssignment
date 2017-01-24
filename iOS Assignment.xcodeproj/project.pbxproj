@@ -1,0 +1,1061 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DB11D1D61C4591AE0011ACB2 /* helpscreenbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = DB11D1D51C4591AE0011ACB2 /* helpscreenbackground.png */; };
+		DB25A9941C42E5B9000BDE3A /* whitekeys.png in Resources */ = {isa = PBXBuildFile; fileRef = DB25A9921C42E5B9000BDE3A /* whitekeys.png */; };
+		DB5B0DFA1C44538B005B37D7 /* rhythmbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = DB5B0DF91C44538B005B37D7 /* rhythmbutton.png */; };
+		DB5B0DFC1C44577D005B37D7 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = DB5B0DFB1C44577D005B37D7 /* logo.png */; };
+		DB5B0DFE1C445A4F005B37D7 /* Bossanova drums (fast).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB5B0DFD1C445A4F005B37D7 /* Bossanova drums (fast).wav */; };
+		DB6537591C30B02A008F27CC /* whitekeyhighlight.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6537571C30B02A008F27CC /* whitekeyhighlight.png */; };
+		DB6A688B1C4427090002733C /* A A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A688A1C4427090002733C /* A A#1.wav */; };
+		DB6A68D41C4427570002733C /* A A#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68BC1C4427570002733C /* A A#2.wav */; };
+		DB6A68D51C4427570002733C /* A A1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68BD1C4427570002733C /* A A1.wav */; };
+		DB6A68D61C4427570002733C /* A A2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68BE1C4427570002733C /* A A2.wav */; };
+		DB6A68D71C4427570002733C /* A B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68BF1C4427570002733C /* A B1.wav */; };
+		DB6A68D81C4427570002733C /* A B2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C01C4427570002733C /* A B2.wav */; };
+		DB6A68D91C4427570002733C /* A C#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C11C4427570002733C /* A C#1.wav */; };
+		DB6A68DA1C4427570002733C /* A C#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C21C4427570002733C /* A C#2.wav */; };
+		DB6A68DB1C4427570002733C /* A C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C31C4427570002733C /* A C1.wav */; };
+		DB6A68DC1C4427570002733C /* A C2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C41C4427570002733C /* A C2.wav */; };
+		DB6A68DD1C4427570002733C /* A C3.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C51C4427570002733C /* A C3.wav */; };
+		DB6A68DE1C4427570002733C /* A D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C61C4427570002733C /* A D#1.wav */; };
+		DB6A68DF1C4427570002733C /* A D#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C71C4427570002733C /* A D#2.wav */; };
+		DB6A68E01C4427570002733C /* A D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C81C4427570002733C /* A D1.wav */; };
+		DB6A68E11C4427570002733C /* A D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68C91C4427570002733C /* A D2.wav */; };
+		DB6A68E21C4427570002733C /* A E1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CA1C4427570002733C /* A E1.wav */; };
+		DB6A68E31C4427570002733C /* A E2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CB1C4427570002733C /* A E2.wav */; };
+		DB6A68E41C4427570002733C /* A F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CC1C4427570002733C /* A F#1.wav */; };
+		DB6A68E51C4427570002733C /* A F#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CD1C4427570002733C /* A F#2.wav */; };
+		DB6A68E61C4427570002733C /* A F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CE1C4427570002733C /* A F1.wav */; };
+		DB6A68E71C4427570002733C /* A F2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68CF1C4427570002733C /* A F2.wav */; };
+		DB6A68E81C4427570002733C /* A G#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68D01C4427570002733C /* A G#1.wav */; };
+		DB6A68E91C4427570002733C /* A G#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68D11C4427570002733C /* A G#2.wav */; };
+		DB6A68EA1C4427570002733C /* A G1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68D21C4427570002733C /* A G1.wav */; };
+		DB6A68EB1C4427570002733C /* A G2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68D31C4427570002733C /* A G2.wav */; };
+		DB6A69061C4427880002733C /* B A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68ED1C4427880002733C /* B A#1.wav */; };
+		DB6A69071C4427880002733C /* B A#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68EE1C4427880002733C /* B A#2.wav */; };
+		DB6A69081C4427880002733C /* B A1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68EF1C4427880002733C /* B A1.wav */; };
+		DB6A69091C4427880002733C /* B A2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F01C4427880002733C /* B A2.wav */; };
+		DB6A690A1C4427880002733C /* B B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F11C4427880002733C /* B B1.wav */; };
+		DB6A690B1C4427880002733C /* B B2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F21C4427880002733C /* B B2.wav */; };
+		DB6A690C1C4427880002733C /* B C#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F31C4427880002733C /* B C#1.wav */; };
+		DB6A690D1C4427880002733C /* B C#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F41C4427880002733C /* B C#2.wav */; };
+		DB6A690E1C4427880002733C /* B C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F51C4427880002733C /* B C1.wav */; };
+		DB6A690F1C4427880002733C /* B C2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F61C4427880002733C /* B C2.wav */; };
+		DB6A69101C4427880002733C /* B C3.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F71C4427880002733C /* B C3.wav */; };
+		DB6A69111C4427880002733C /* B D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F81C4427880002733C /* B D#1.wav */; };
+		DB6A69121C4427880002733C /* B D#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68F91C4427880002733C /* B D#2.wav */; };
+		DB6A69131C4427880002733C /* B D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FA1C4427880002733C /* B D1.wav */; };
+		DB6A69141C4427880002733C /* B D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FB1C4427880002733C /* B D2.wav */; };
+		DB6A69151C4427880002733C /* B E1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FC1C4427880002733C /* B E1.wav */; };
+		DB6A69161C4427880002733C /* B E2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FD1C4427880002733C /* B E2.wav */; };
+		DB6A69171C4427880002733C /* B F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FE1C4427880002733C /* B F#1.wav */; };
+		DB6A69181C4427880002733C /* B F#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A68FF1C4427880002733C /* B F#2.wav */; };
+		DB6A69191C4427880002733C /* B F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69001C4427880002733C /* B F1.wav */; };
+		DB6A691A1C4427880002733C /* B F2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69011C4427880002733C /* B F2.wav */; };
+		DB6A691B1C4427880002733C /* B G#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69021C4427880002733C /* B G#1.wav */; };
+		DB6A691C1C4427880002733C /* B G#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69031C4427880002733C /* B G#2.wav */; };
+		DB6A691D1C4427880002733C /* B G1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69041C4427880002733C /* B G1.wav */; };
+		DB6A691E1C4427880002733C /* B G2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69051C4427880002733C /* B G2.wav */; };
+		DB6A69391C4427C80002733C /* C A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69201C4427C80002733C /* C A#1.wav */; };
+		DB6A693A1C4427C80002733C /* C A#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69211C4427C80002733C /* C A#2.wav */; };
+		DB6A693B1C4427C80002733C /* C A1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69221C4427C80002733C /* C A1.wav */; };
+		DB6A693C1C4427C80002733C /* C A2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69231C4427C80002733C /* C A2.wav */; };
+		DB6A693D1C4427C80002733C /* C B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69241C4427C80002733C /* C B1.wav */; };
+		DB6A693E1C4427C80002733C /* C B2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69251C4427C80002733C /* C B2.wav */; };
+		DB6A693F1C4427C80002733C /* C C#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69261C4427C80002733C /* C C#1.wav */; };
+		DB6A69401C4427C80002733C /* C C#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69271C4427C80002733C /* C C#2.wav */; };
+		DB6A69411C4427C80002733C /* C C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69281C4427C80002733C /* C C1.wav */; };
+		DB6A69421C4427C80002733C /* C C2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69291C4427C80002733C /* C C2.wav */; };
+		DB6A69431C4427C80002733C /* C C3.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692A1C4427C80002733C /* C C3.wav */; };
+		DB6A69441C4427C80002733C /* C D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692B1C4427C80002733C /* C D#1.wav */; };
+		DB6A69451C4427C80002733C /* C D#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692C1C4427C80002733C /* C D#2.wav */; };
+		DB6A69461C4427C80002733C /* C D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692D1C4427C80002733C /* C D1.wav */; };
+		DB6A69471C4427C80002733C /* C D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692E1C4427C80002733C /* C D2.wav */; };
+		DB6A69481C4427C80002733C /* C E1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A692F1C4427C80002733C /* C E1.wav */; };
+		DB6A69491C4427C80002733C /* C E2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69301C4427C80002733C /* C E2.wav */; };
+		DB6A694A1C4427C80002733C /* C F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69311C4427C80002733C /* C F#1.wav */; };
+		DB6A694B1C4427C80002733C /* C F#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69321C4427C80002733C /* C F#2.wav */; };
+		DB6A694C1C4427C80002733C /* C F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69331C4427C80002733C /* C F1.wav */; };
+		DB6A694D1C4427C80002733C /* C F2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69341C4427C80002733C /* C F2.wav */; };
+		DB6A694E1C4427C80002733C /* C G#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69351C4427C80002733C /* C G#1.wav */; };
+		DB6A694F1C4427C80002733C /* C G#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69361C4427C80002733C /* C G#2.wav */; };
+		DB6A69501C4427C80002733C /* C G1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69371C4427C80002733C /* C G1.wav */; };
+		DB6A69511C4427C80002733C /* C G2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69381C4427C80002733C /* C G2.wav */; };
+		DB6A696C1C4427E80002733C /* D A#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69531C4427E80002733C /* D A#1.wav */; };
+		DB6A696D1C4427E80002733C /* D A#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69541C4427E80002733C /* D A#2.wav */; };
+		DB6A696E1C4427E80002733C /* D A1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69551C4427E80002733C /* D A1.wav */; };
+		DB6A696F1C4427E80002733C /* D A2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69561C4427E80002733C /* D A2.wav */; };
+		DB6A69701C4427E80002733C /* D B1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69571C4427E80002733C /* D B1.wav */; };
+		DB6A69711C4427E80002733C /* D B2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69581C4427E80002733C /* D B2.wav */; };
+		DB6A69721C4427E80002733C /* D C#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69591C4427E80002733C /* D C#1.wav */; };
+		DB6A69731C4427E80002733C /* D C#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695A1C4427E80002733C /* D C#2.wav */; };
+		DB6A69741C4427E80002733C /* D C1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695B1C4427E80002733C /* D C1.wav */; };
+		DB6A69751C4427E80002733C /* D C2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695C1C4427E80002733C /* D C2.wav */; };
+		DB6A69761C4427E80002733C /* D C3.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695D1C4427E80002733C /* D C3.wav */; };
+		DB6A69771C4427E80002733C /* D D#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695E1C4427E80002733C /* D D#1.wav */; };
+		DB6A69781C4427E80002733C /* D D#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A695F1C4427E80002733C /* D D#2.wav */; };
+		DB6A69791C4427E80002733C /* D D1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69601C4427E80002733C /* D D1.wav */; };
+		DB6A697A1C4427E80002733C /* D D2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69611C4427E80002733C /* D D2.wav */; };
+		DB6A697B1C4427E80002733C /* D E1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69621C4427E80002733C /* D E1.wav */; };
+		DB6A697C1C4427E80002733C /* D E2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69631C4427E80002733C /* D E2.wav */; };
+		DB6A697D1C4427E80002733C /* D F#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69641C4427E80002733C /* D F#1.wav */; };
+		DB6A697E1C4427E80002733C /* D F#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69651C4427E80002733C /* D F#2.wav */; };
+		DB6A697F1C4427E80002733C /* D F1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69661C4427E80002733C /* D F1.wav */; };
+		DB6A69801C4427E80002733C /* D F2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69671C4427E80002733C /* D F2.wav */; };
+		DB6A69811C4427E80002733C /* D G#1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69681C4427E80002733C /* D G#1.wav */; };
+		DB6A69821C4427E80002733C /* D G#2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A69691C4427E80002733C /* D G#2.wav */; };
+		DB6A69831C4427E80002733C /* D G1.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A696A1C4427E80002733C /* D G1.wav */; };
+		DB6A69841C4427E80002733C /* D G2.wav in Resources */ = {isa = PBXBuildFile; fileRef = DB6A696B1C4427E80002733C /* D G2.wav */; };
+		DB7FDA691C32EC4F00F9A4B7 /* blackkeyhighlighted2.png in Resources */ = {isa = PBXBuildFile; fileRef = DB7FDA671C32EC4F00F9A4B7 /* blackkeyhighlighted2.png */; };
+		DB8322E41C45728C00F6BE5C /* Pop drums (fast).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322DE1C45728C00F6BE5C /* Pop drums (fast).wav */; };
+		DB8322E51C45728C00F6BE5C /* Pop drums (slow).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322DF1C45728C00F6BE5C /* Pop drums (slow).wav */; };
+		DB8322E61C45728C00F6BE5C /* swing drums (fast).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322E01C45728C00F6BE5C /* swing drums (fast).wav */; };
+		DB8322E71C45728C00F6BE5C /* Swing drums (slow).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322E11C45728C00F6BE5C /* Swing drums (slow).wav */; };
+		DB8322E81C45728C00F6BE5C /* waltz drums (fast).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322E21C45728C00F6BE5C /* waltz drums (fast).wav */; };
+		DB8322E91C45728C00F6BE5C /* Waltz drums (slow).wav in Resources */ = {isa = PBXBuildFile; fileRef = DB8322E31C45728C00F6BE5C /* Waltz drums (slow).wav */; };
+		DB89F6DB1C30A64800D01C2F /* blackkey.png in Resources */ = {isa = PBXBuildFile; fileRef = DB89F6D91C30A64800D01C2F /* blackkey.png */; };
+		DB89F6DC1C30A64800D01C2F /* whitekey.png in Resources */ = {isa = PBXBuildFile; fileRef = DB89F6DA1C30A64800D01C2F /* whitekey.png */; };
+		DBC49EE71C42E38F00CA37D2 /* whitebackground.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC49EE61C42E38F00CA37D2 /* whitebackground.png */; };
+		DBC592F31C2366D600A0AE5E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC592F21C2366D600A0AE5E /* main.m */; };
+		DBC592F61C2366D600A0AE5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC592F51C2366D600A0AE5E /* AppDelegate.m */; };
+		DBC592F91C2366D600A0AE5E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC592F81C2366D600A0AE5E /* ViewController.m */; };
+		DBC592FC1C2366D600A0AE5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBC592FA1C2366D600A0AE5E /* Main.storyboard */; };
+		DBC592FE1C2366D600A0AE5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBC592FD1C2366D600A0AE5E /* Assets.xcassets */; };
+		DBC593011C2366D600A0AE5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBC592FF1C2366D600A0AE5E /* LaunchScreen.storyboard */; };
+		DBC5930C1C2366D700A0AE5E /* iOS_AssignmentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC5930B1C2366D700A0AE5E /* iOS_AssignmentTests.m */; };
+		DBC593171C2366D700A0AE5E /* iOS_AssignmentUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC593161C2366D700A0AE5E /* iOS_AssignmentUITests.m */; };
+		DBC88B6A1C457ACE00033999 /* help button.png in Resources */ = {isa = PBXBuildFile; fileRef = DBC88B681C457ACE00033999 /* help button.png */; };
+		DBF65E4D1C45A5A100EADD2D /* rhythm buttons.png in Resources */ = {isa = PBXBuildFile; fileRef = DBF65E4C1C45A5A100EADD2D /* rhythm buttons.png */; };
+		DBF65E4F1C45B14400EADD2D /* rhythmselecthighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = DBF65E4E1C45B14400EADD2D /* rhythmselecthighlighted.png */; };
+		DBF65E511C45B17600EADD2D /* rhythmbuttonhighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = DBF65E501C45B17600EADD2D /* rhythmbuttonhighlighted.png */; };
+		DBF65E531C45BABF00EADD2D /* helpbuttonhighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = DBF65E521C45BABF00EADD2D /* helpbuttonhighlighted.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DBC593081C2366D700A0AE5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DBC592E61C2366D600A0AE5E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DBC592ED1C2366D600A0AE5E;
+			remoteInfo = "iOS Assignment";
+		};
+		DBC593131C2366D700A0AE5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DBC592E61C2366D600A0AE5E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DBC592ED1C2366D600A0AE5E;
+			remoteInfo = "iOS Assignment";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DB11D1D51C4591AE0011ACB2 /* helpscreenbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = helpscreenbackground.png; sourceTree = "<group>"; };
+		DB25A9921C42E5B9000BDE3A /* whitekeys.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitekeys.png; sourceTree = "<group>"; };
+		DB5B0DF91C44538B005B37D7 /* rhythmbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rhythmbutton.png; sourceTree = "<group>"; };
+		DB5B0DFB1C44577D005B37D7 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		DB5B0DFD1C445A4F005B37D7 /* Bossanova drums (fast).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Bossanova drums (fast).wav"; sourceTree = "<group>"; };
+		DB6537571C30B02A008F27CC /* whitekeyhighlight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitekeyhighlight.png; sourceTree = "<group>"; };
+		DB6A688A1C4427090002733C /* A A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A A#1.wav"; sourceTree = "<group>"; };
+		DB6A68BC1C4427570002733C /* A A#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A A#2.wav"; sourceTree = "<group>"; };
+		DB6A68BD1C4427570002733C /* A A1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A A1.wav"; sourceTree = "<group>"; };
+		DB6A68BE1C4427570002733C /* A A2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A A2.wav"; sourceTree = "<group>"; };
+		DB6A68BF1C4427570002733C /* A B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A B1.wav"; sourceTree = "<group>"; };
+		DB6A68C01C4427570002733C /* A B2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A B2.wav"; sourceTree = "<group>"; };
+		DB6A68C11C4427570002733C /* A C#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A C#1.wav"; sourceTree = "<group>"; };
+		DB6A68C21C4427570002733C /* A C#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A C#2.wav"; sourceTree = "<group>"; };
+		DB6A68C31C4427570002733C /* A C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A C1.wav"; sourceTree = "<group>"; };
+		DB6A68C41C4427570002733C /* A C2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A C2.wav"; sourceTree = "<group>"; };
+		DB6A68C51C4427570002733C /* A C3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A C3.wav"; sourceTree = "<group>"; };
+		DB6A68C61C4427570002733C /* A D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A D#1.wav"; sourceTree = "<group>"; };
+		DB6A68C71C4427570002733C /* A D#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A D#2.wav"; sourceTree = "<group>"; };
+		DB6A68C81C4427570002733C /* A D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A D1.wav"; sourceTree = "<group>"; };
+		DB6A68C91C4427570002733C /* A D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A D2.wav"; sourceTree = "<group>"; };
+		DB6A68CA1C4427570002733C /* A E1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A E1.wav"; sourceTree = "<group>"; };
+		DB6A68CB1C4427570002733C /* A E2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A E2.wav"; sourceTree = "<group>"; };
+		DB6A68CC1C4427570002733C /* A F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A F#1.wav"; sourceTree = "<group>"; };
+		DB6A68CD1C4427570002733C /* A F#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A F#2.wav"; sourceTree = "<group>"; };
+		DB6A68CE1C4427570002733C /* A F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A F1.wav"; sourceTree = "<group>"; };
+		DB6A68CF1C4427570002733C /* A F2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A F2.wav"; sourceTree = "<group>"; };
+		DB6A68D01C4427570002733C /* A G#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A G#1.wav"; sourceTree = "<group>"; };
+		DB6A68D11C4427570002733C /* A G#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A G#2.wav"; sourceTree = "<group>"; };
+		DB6A68D21C4427570002733C /* A G1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A G1.wav"; sourceTree = "<group>"; };
+		DB6A68D31C4427570002733C /* A G2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "A G2.wav"; sourceTree = "<group>"; };
+		DB6A68ED1C4427880002733C /* B A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B A#1.wav"; sourceTree = "<group>"; };
+		DB6A68EE1C4427880002733C /* B A#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B A#2.wav"; sourceTree = "<group>"; };
+		DB6A68EF1C4427880002733C /* B A1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B A1.wav"; sourceTree = "<group>"; };
+		DB6A68F01C4427880002733C /* B A2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B A2.wav"; sourceTree = "<group>"; };
+		DB6A68F11C4427880002733C /* B B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B B1.wav"; sourceTree = "<group>"; };
+		DB6A68F21C4427880002733C /* B B2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B B2.wav"; sourceTree = "<group>"; };
+		DB6A68F31C4427880002733C /* B C#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B C#1.wav"; sourceTree = "<group>"; };
+		DB6A68F41C4427880002733C /* B C#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B C#2.wav"; sourceTree = "<group>"; };
+		DB6A68F51C4427880002733C /* B C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B C1.wav"; sourceTree = "<group>"; };
+		DB6A68F61C4427880002733C /* B C2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B C2.wav"; sourceTree = "<group>"; };
+		DB6A68F71C4427880002733C /* B C3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B C3.wav"; sourceTree = "<group>"; };
+		DB6A68F81C4427880002733C /* B D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B D#1.wav"; sourceTree = "<group>"; };
+		DB6A68F91C4427880002733C /* B D#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B D#2.wav"; sourceTree = "<group>"; };
+		DB6A68FA1C4427880002733C /* B D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B D1.wav"; sourceTree = "<group>"; };
+		DB6A68FB1C4427880002733C /* B D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B D2.wav"; sourceTree = "<group>"; };
+		DB6A68FC1C4427880002733C /* B E1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B E1.wav"; sourceTree = "<group>"; };
+		DB6A68FD1C4427880002733C /* B E2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B E2.wav"; sourceTree = "<group>"; };
+		DB6A68FE1C4427880002733C /* B F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B F#1.wav"; sourceTree = "<group>"; };
+		DB6A68FF1C4427880002733C /* B F#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B F#2.wav"; sourceTree = "<group>"; };
+		DB6A69001C4427880002733C /* B F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B F1.wav"; sourceTree = "<group>"; };
+		DB6A69011C4427880002733C /* B F2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B F2.wav"; sourceTree = "<group>"; };
+		DB6A69021C4427880002733C /* B G#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B G#1.wav"; sourceTree = "<group>"; };
+		DB6A69031C4427880002733C /* B G#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B G#2.wav"; sourceTree = "<group>"; };
+		DB6A69041C4427880002733C /* B G1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B G1.wav"; sourceTree = "<group>"; };
+		DB6A69051C4427880002733C /* B G2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "B G2.wav"; sourceTree = "<group>"; };
+		DB6A69201C4427C80002733C /* C A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C A#1.wav"; sourceTree = "<group>"; };
+		DB6A69211C4427C80002733C /* C A#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C A#2.wav"; sourceTree = "<group>"; };
+		DB6A69221C4427C80002733C /* C A1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C A1.wav"; sourceTree = "<group>"; };
+		DB6A69231C4427C80002733C /* C A2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C A2.wav"; sourceTree = "<group>"; };
+		DB6A69241C4427C80002733C /* C B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C B1.wav"; sourceTree = "<group>"; };
+		DB6A69251C4427C80002733C /* C B2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C B2.wav"; sourceTree = "<group>"; };
+		DB6A69261C4427C80002733C /* C C#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C C#1.wav"; sourceTree = "<group>"; };
+		DB6A69271C4427C80002733C /* C C#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C C#2.wav"; sourceTree = "<group>"; };
+		DB6A69281C4427C80002733C /* C C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C C1.wav"; sourceTree = "<group>"; };
+		DB6A69291C4427C80002733C /* C C2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C C2.wav"; sourceTree = "<group>"; };
+		DB6A692A1C4427C80002733C /* C C3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C C3.wav"; sourceTree = "<group>"; };
+		DB6A692B1C4427C80002733C /* C D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C D#1.wav"; sourceTree = "<group>"; };
+		DB6A692C1C4427C80002733C /* C D#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C D#2.wav"; sourceTree = "<group>"; };
+		DB6A692D1C4427C80002733C /* C D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C D1.wav"; sourceTree = "<group>"; };
+		DB6A692E1C4427C80002733C /* C D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C D2.wav"; sourceTree = "<group>"; };
+		DB6A692F1C4427C80002733C /* C E1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C E1.wav"; sourceTree = "<group>"; };
+		DB6A69301C4427C80002733C /* C E2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C E2.wav"; sourceTree = "<group>"; };
+		DB6A69311C4427C80002733C /* C F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C F#1.wav"; sourceTree = "<group>"; };
+		DB6A69321C4427C80002733C /* C F#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C F#2.wav"; sourceTree = "<group>"; };
+		DB6A69331C4427C80002733C /* C F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C F1.wav"; sourceTree = "<group>"; };
+		DB6A69341C4427C80002733C /* C F2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C F2.wav"; sourceTree = "<group>"; };
+		DB6A69351C4427C80002733C /* C G#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C G#1.wav"; sourceTree = "<group>"; };
+		DB6A69361C4427C80002733C /* C G#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C G#2.wav"; sourceTree = "<group>"; };
+		DB6A69371C4427C80002733C /* C G1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C G1.wav"; sourceTree = "<group>"; };
+		DB6A69381C4427C80002733C /* C G2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "C G2.wav"; sourceTree = "<group>"; };
+		DB6A69531C4427E80002733C /* D A#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D A#1.wav"; sourceTree = "<group>"; };
+		DB6A69541C4427E80002733C /* D A#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D A#2.wav"; sourceTree = "<group>"; };
+		DB6A69551C4427E80002733C /* D A1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D A1.wav"; sourceTree = "<group>"; };
+		DB6A69561C4427E80002733C /* D A2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D A2.wav"; sourceTree = "<group>"; };
+		DB6A69571C4427E80002733C /* D B1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D B1.wav"; sourceTree = "<group>"; };
+		DB6A69581C4427E80002733C /* D B2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D B2.wav"; sourceTree = "<group>"; };
+		DB6A69591C4427E80002733C /* D C#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D C#1.wav"; sourceTree = "<group>"; };
+		DB6A695A1C4427E80002733C /* D C#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D C#2.wav"; sourceTree = "<group>"; };
+		DB6A695B1C4427E80002733C /* D C1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D C1.wav"; sourceTree = "<group>"; };
+		DB6A695C1C4427E80002733C /* D C2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D C2.wav"; sourceTree = "<group>"; };
+		DB6A695D1C4427E80002733C /* D C3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D C3.wav"; sourceTree = "<group>"; };
+		DB6A695E1C4427E80002733C /* D D#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D D#1.wav"; sourceTree = "<group>"; };
+		DB6A695F1C4427E80002733C /* D D#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D D#2.wav"; sourceTree = "<group>"; };
+		DB6A69601C4427E80002733C /* D D1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D D1.wav"; sourceTree = "<group>"; };
+		DB6A69611C4427E80002733C /* D D2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D D2.wav"; sourceTree = "<group>"; };
+		DB6A69621C4427E80002733C /* D E1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D E1.wav"; sourceTree = "<group>"; };
+		DB6A69631C4427E80002733C /* D E2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D E2.wav"; sourceTree = "<group>"; };
+		DB6A69641C4427E80002733C /* D F#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D F#1.wav"; sourceTree = "<group>"; };
+		DB6A69651C4427E80002733C /* D F#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D F#2.wav"; sourceTree = "<group>"; };
+		DB6A69661C4427E80002733C /* D F1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D F1.wav"; sourceTree = "<group>"; };
+		DB6A69671C4427E80002733C /* D F2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D F2.wav"; sourceTree = "<group>"; };
+		DB6A69681C4427E80002733C /* D G#1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D G#1.wav"; sourceTree = "<group>"; };
+		DB6A69691C4427E80002733C /* D G#2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D G#2.wav"; sourceTree = "<group>"; };
+		DB6A696A1C4427E80002733C /* D G1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D G1.wav"; sourceTree = "<group>"; };
+		DB6A696B1C4427E80002733C /* D G2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "D G2.wav"; sourceTree = "<group>"; };
+		DB7FDA671C32EC4F00F9A4B7 /* blackkeyhighlighted2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackkeyhighlighted2.png; sourceTree = "<group>"; };
+		DB8322DE1C45728C00F6BE5C /* Pop drums (fast).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Pop drums (fast).wav"; sourceTree = "<group>"; };
+		DB8322DF1C45728C00F6BE5C /* Pop drums (slow).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Pop drums (slow).wav"; sourceTree = "<group>"; };
+		DB8322E01C45728C00F6BE5C /* swing drums (fast).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "swing drums (fast).wav"; sourceTree = "<group>"; };
+		DB8322E11C45728C00F6BE5C /* Swing drums (slow).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Swing drums (slow).wav"; sourceTree = "<group>"; };
+		DB8322E21C45728C00F6BE5C /* waltz drums (fast).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "waltz drums (fast).wav"; sourceTree = "<group>"; };
+		DB8322E31C45728C00F6BE5C /* Waltz drums (slow).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Waltz drums (slow).wav"; sourceTree = "<group>"; };
+		DB89F6D91C30A64800D01C2F /* blackkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackkey.png; sourceTree = "<group>"; };
+		DB89F6DA1C30A64800D01C2F /* whitekey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitekey.png; sourceTree = "<group>"; };
+		DBC49EE61C42E38F00CA37D2 /* whitebackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebackground.png; sourceTree = "<group>"; };
+		DBC592EE1C2366D600A0AE5E /* iOS Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC592F21C2366D600A0AE5E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DBC592F41C2366D600A0AE5E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DBC592F51C2366D600A0AE5E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DBC592F71C2366D600A0AE5E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DBC592F81C2366D600A0AE5E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DBC592FB1C2366D600A0AE5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DBC592FD1C2366D600A0AE5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DBC593001C2366D600A0AE5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DBC593021C2366D600A0AE5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBC593071C2366D700A0AE5E /* iOS AssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS AssignmentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC5930B1C2366D700A0AE5E /* iOS_AssignmentTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_AssignmentTests.m; sourceTree = "<group>"; };
+		DBC5930D1C2366D700A0AE5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBC593121C2366D700A0AE5E /* iOS AssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS AssignmentUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC593161C2366D700A0AE5E /* iOS_AssignmentUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_AssignmentUITests.m; sourceTree = "<group>"; };
+		DBC593181C2366D700A0AE5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBC88B681C457ACE00033999 /* help button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help button.png"; sourceTree = "<group>"; };
+		DBF65E4C1C45A5A100EADD2D /* rhythm buttons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rhythm buttons.png"; sourceTree = "<group>"; };
+		DBF65E4E1C45B14400EADD2D /* rhythmselecthighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rhythmselecthighlighted.png; sourceTree = "<group>"; };
+		DBF65E501C45B17600EADD2D /* rhythmbuttonhighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rhythmbuttonhighlighted.png; sourceTree = "<group>"; };
+		DBF65E521C45BABF00EADD2D /* helpbuttonhighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = helpbuttonhighlighted.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DBC592EB1C2366D600A0AE5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC593041C2366D700A0AE5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC5930F1C2366D700A0AE5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DB6A68EC1C4427660002733C /* Samples A */ = {
+			isa = PBXGroup;
+			children = (
+				DB6A68BC1C4427570002733C /* A A#2.wav */,
+				DB6A68BD1C4427570002733C /* A A1.wav */,
+				DB6A68BE1C4427570002733C /* A A2.wav */,
+				DB6A68BF1C4427570002733C /* A B1.wav */,
+				DB6A68C01C4427570002733C /* A B2.wav */,
+				DB6A68C11C4427570002733C /* A C#1.wav */,
+				DB6A68C21C4427570002733C /* A C#2.wav */,
+				DB6A68C31C4427570002733C /* A C1.wav */,
+				DB6A68C41C4427570002733C /* A C2.wav */,
+				DB6A68C51C4427570002733C /* A C3.wav */,
+				DB6A68C61C4427570002733C /* A D#1.wav */,
+				DB6A68C71C4427570002733C /* A D#2.wav */,
+				DB6A68C81C4427570002733C /* A D1.wav */,
+				DB6A68C91C4427570002733C /* A D2.wav */,
+				DB6A68CA1C4427570002733C /* A E1.wav */,
+				DB6A68CB1C4427570002733C /* A E2.wav */,
+				DB6A68CC1C4427570002733C /* A F#1.wav */,
+				DB6A68CD1C4427570002733C /* A F#2.wav */,
+				DB6A68CE1C4427570002733C /* A F1.wav */,
+				DB6A68CF1C4427570002733C /* A F2.wav */,
+				DB6A68D01C4427570002733C /* A G#1.wav */,
+				DB6A68D11C4427570002733C /* A G#2.wav */,
+				DB6A68D21C4427570002733C /* A G1.wav */,
+				DB6A68D31C4427570002733C /* A G2.wav */,
+				DB6A688A1C4427090002733C /* A A#1.wav */,
+			);
+			name = "Samples A";
+			sourceTree = "<group>";
+		};
+		DB6A691F1C4427900002733C /* Samples B */ = {
+			isa = PBXGroup;
+			children = (
+				DB6A68ED1C4427880002733C /* B A#1.wav */,
+				DB6A68EE1C4427880002733C /* B A#2.wav */,
+				DB6A68EF1C4427880002733C /* B A1.wav */,
+				DB6A68F01C4427880002733C /* B A2.wav */,
+				DB6A68F11C4427880002733C /* B B1.wav */,
+				DB6A68F21C4427880002733C /* B B2.wav */,
+				DB6A68F31C4427880002733C /* B C#1.wav */,
+				DB6A68F41C4427880002733C /* B C#2.wav */,
+				DB6A68F51C4427880002733C /* B C1.wav */,
+				DB6A68F61C4427880002733C /* B C2.wav */,
+				DB6A68F71C4427880002733C /* B C3.wav */,
+				DB6A68F81C4427880002733C /* B D#1.wav */,
+				DB6A68F91C4427880002733C /* B D#2.wav */,
+				DB6A68FA1C4427880002733C /* B D1.wav */,
+				DB6A68FB1C4427880002733C /* B D2.wav */,
+				DB6A68FC1C4427880002733C /* B E1.wav */,
+				DB6A68FD1C4427880002733C /* B E2.wav */,
+				DB6A68FE1C4427880002733C /* B F#1.wav */,
+				DB6A68FF1C4427880002733C /* B F#2.wav */,
+				DB6A69001C4427880002733C /* B F1.wav */,
+				DB6A69011C4427880002733C /* B F2.wav */,
+				DB6A69021C4427880002733C /* B G#1.wav */,
+				DB6A69031C4427880002733C /* B G#2.wav */,
+				DB6A69041C4427880002733C /* B G1.wav */,
+				DB6A69051C4427880002733C /* B G2.wav */,
+			);
+			name = "Samples B";
+			sourceTree = "<group>";
+		};
+		DB6A69521C4427D10002733C /* Samples C */ = {
+			isa = PBXGroup;
+			children = (
+				DB6A69201C4427C80002733C /* C A#1.wav */,
+				DB6A69211C4427C80002733C /* C A#2.wav */,
+				DB6A69221C4427C80002733C /* C A1.wav */,
+				DB6A69231C4427C80002733C /* C A2.wav */,
+				DB6A69241C4427C80002733C /* C B1.wav */,
+				DB6A69251C4427C80002733C /* C B2.wav */,
+				DB6A69261C4427C80002733C /* C C#1.wav */,
+				DB6A69271C4427C80002733C /* C C#2.wav */,
+				DB6A69281C4427C80002733C /* C C1.wav */,
+				DB6A69291C4427C80002733C /* C C2.wav */,
+				DB6A692A1C4427C80002733C /* C C3.wav */,
+				DB6A692B1C4427C80002733C /* C D#1.wav */,
+				DB6A692C1C4427C80002733C /* C D#2.wav */,
+				DB6A692D1C4427C80002733C /* C D1.wav */,
+				DB6A692E1C4427C80002733C /* C D2.wav */,
+				DB6A692F1C4427C80002733C /* C E1.wav */,
+				DB6A69301C4427C80002733C /* C E2.wav */,
+				DB6A69311C4427C80002733C /* C F#1.wav */,
+				DB6A69321C4427C80002733C /* C F#2.wav */,
+				DB6A69331C4427C80002733C /* C F1.wav */,
+				DB6A69341C4427C80002733C /* C F2.wav */,
+				DB6A69351C4427C80002733C /* C G#1.wav */,
+				DB6A69361C4427C80002733C /* C G#2.wav */,
+				DB6A69371C4427C80002733C /* C G1.wav */,
+				DB6A69381C4427C80002733C /* C G2.wav */,
+			);
+			name = "Samples C";
+			sourceTree = "<group>";
+		};
+		DB6A69851C4427F30002733C /* Samples D */ = {
+			isa = PBXGroup;
+			children = (
+				DB25A9921C42E5B9000BDE3A /* whitekeys.png */,
+				DB6A69531C4427E80002733C /* D A#1.wav */,
+				DB6A69541C4427E80002733C /* D A#2.wav */,
+				DB6A69551C4427E80002733C /* D A1.wav */,
+				DB6A69561C4427E80002733C /* D A2.wav */,
+				DB6A69571C4427E80002733C /* D B1.wav */,
+				DB6A69581C4427E80002733C /* D B2.wav */,
+				DB6A69591C4427E80002733C /* D C#1.wav */,
+				DB6A695A1C4427E80002733C /* D C#2.wav */,
+				DB6A695B1C4427E80002733C /* D C1.wav */,
+				DB6A695C1C4427E80002733C /* D C2.wav */,
+				DB6A695D1C4427E80002733C /* D C3.wav */,
+				DB6A695E1C4427E80002733C /* D D#1.wav */,
+				DB6A695F1C4427E80002733C /* D D#2.wav */,
+				DB6A69601C4427E80002733C /* D D1.wav */,
+				DB6A69611C4427E80002733C /* D D2.wav */,
+				DB6A69621C4427E80002733C /* D E1.wav */,
+				DB6A69631C4427E80002733C /* D E2.wav */,
+				DB6A69641C4427E80002733C /* D F#1.wav */,
+				DB6A69651C4427E80002733C /* D F#2.wav */,
+				DB6A69661C4427E80002733C /* D F1.wav */,
+				DB6A69671C4427E80002733C /* D F2.wav */,
+				DB6A69681C4427E80002733C /* D G#1.wav */,
+				DB6A69691C4427E80002733C /* D G#2.wav */,
+				DB6A696A1C4427E80002733C /* D G1.wav */,
+				DB6A696B1C4427E80002733C /* D G2.wav */,
+			);
+			name = "Samples D";
+			sourceTree = "<group>";
+		};
+		DB8322EA1C45762900F6BE5C /* Drum samples */ = {
+			isa = PBXGroup;
+			children = (
+				DB8322DE1C45728C00F6BE5C /* Pop drums (fast).wav */,
+				DB8322DF1C45728C00F6BE5C /* Pop drums (slow).wav */,
+				DB8322E01C45728C00F6BE5C /* swing drums (fast).wav */,
+				DB8322E11C45728C00F6BE5C /* Swing drums (slow).wav */,
+				DB8322E21C45728C00F6BE5C /* waltz drums (fast).wav */,
+				DB8322E31C45728C00F6BE5C /* Waltz drums (slow).wav */,
+				DB5B0DFD1C445A4F005B37D7 /* Bossanova drums (fast).wav */,
+			);
+			name = "Drum samples";
+			sourceTree = "<group>";
+		};
+		DBC592E51C2366D600A0AE5E = {
+			isa = PBXGroup;
+			children = (
+				DBC592F01C2366D600A0AE5E /* iOS Assignment */,
+				DBC5930A1C2366D700A0AE5E /* iOS AssignmentTests */,
+				DBC593151C2366D700A0AE5E /* iOS AssignmentUITests */,
+				DBC592EF1C2366D600A0AE5E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DBC592EF1C2366D600A0AE5E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DBC592EE1C2366D600A0AE5E /* iOS Assignment.app */,
+				DBC593071C2366D700A0AE5E /* iOS AssignmentTests.xctest */,
+				DBC593121C2366D700A0AE5E /* iOS AssignmentUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DBC592F01C2366D600A0AE5E /* iOS Assignment */ = {
+			isa = PBXGroup;
+			children = (
+				DBC592F41C2366D600A0AE5E /* AppDelegate.h */,
+				DBC592F51C2366D600A0AE5E /* AppDelegate.m */,
+				DBC592F71C2366D600A0AE5E /* ViewController.h */,
+				DBC592F81C2366D600A0AE5E /* ViewController.m */,
+				DBC592FA1C2366D600A0AE5E /* Main.storyboard */,
+				DBC592FD1C2366D600A0AE5E /* Assets.xcassets */,
+				DBC592FF1C2366D600A0AE5E /* LaunchScreen.storyboard */,
+				DBC593021C2366D600A0AE5E /* Info.plist */,
+				DBC592F11C2366D600A0AE5E /* Supporting Files */,
+			);
+			path = "iOS Assignment";
+			sourceTree = "<group>";
+		};
+		DBC592F11C2366D600A0AE5E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DB8322EA1C45762900F6BE5C /* Drum samples */,
+				DB6A68EC1C4427660002733C /* Samples A */,
+				DB6A691F1C4427900002733C /* Samples B */,
+				DB6A69521C4427D10002733C /* Samples C */,
+				DB6A69851C4427F30002733C /* Samples D */,
+				DB5B0DFB1C44577D005B37D7 /* logo.png */,
+				DBC88B681C457ACE00033999 /* help button.png */,
+				DBF65E4E1C45B14400EADD2D /* rhythmselecthighlighted.png */,
+				DBF65E501C45B17600EADD2D /* rhythmbuttonhighlighted.png */,
+				DBF65E521C45BABF00EADD2D /* helpbuttonhighlighted.png */,
+				DBF65E4C1C45A5A100EADD2D /* rhythm buttons.png */,
+				DBC49EE61C42E38F00CA37D2 /* whitebackground.png */,
+				DB5B0DF91C44538B005B37D7 /* rhythmbutton.png */,
+				DB89F6D91C30A64800D01C2F /* blackkey.png */,
+				DB11D1D51C4591AE0011ACB2 /* helpscreenbackground.png */,
+				DB7FDA671C32EC4F00F9A4B7 /* blackkeyhighlighted2.png */,
+				DB6537571C30B02A008F27CC /* whitekeyhighlight.png */,
+				DB89F6DA1C30A64800D01C2F /* whitekey.png */,
+				DBC592F21C2366D600A0AE5E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DBC5930A1C2366D700A0AE5E /* iOS AssignmentTests */ = {
+			isa = PBXGroup;
+			children = (
+				DBC5930B1C2366D700A0AE5E /* iOS_AssignmentTests.m */,
+				DBC5930D1C2366D700A0AE5E /* Info.plist */,
+			);
+			path = "iOS AssignmentTests";
+			sourceTree = "<group>";
+		};
+		DBC593151C2366D700A0AE5E /* iOS AssignmentUITests */ = {
+			isa = PBXGroup;
+			children = (
+				DBC593161C2366D700A0AE5E /* iOS_AssignmentUITests.m */,
+				DBC593181C2366D700A0AE5E /* Info.plist */,
+			);
+			path = "iOS AssignmentUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DBC592ED1C2366D600A0AE5E /* iOS Assignment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DBC5931B1C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS Assignment" */;
+			buildPhases = (
+				DBC592EA1C2366D600A0AE5E /* Sources */,
+				DBC592EB1C2366D600A0AE5E /* Frameworks */,
+				DBC592EC1C2366D600A0AE5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iOS Assignment";
+			productName = "iOS Assignment";
+			productReference = DBC592EE1C2366D600A0AE5E /* iOS Assignment.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DBC593061C2366D700A0AE5E /* iOS AssignmentTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DBC5931E1C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS AssignmentTests" */;
+			buildPhases = (
+				DBC593031C2366D700A0AE5E /* Sources */,
+				DBC593041C2366D700A0AE5E /* Frameworks */,
+				DBC593051C2366D700A0AE5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DBC593091C2366D700A0AE5E /* PBXTargetDependency */,
+			);
+			name = "iOS AssignmentTests";
+			productName = "iOS AssignmentTests";
+			productReference = DBC593071C2366D700A0AE5E /* iOS AssignmentTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DBC593111C2366D700A0AE5E /* iOS AssignmentUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DBC593211C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS AssignmentUITests" */;
+			buildPhases = (
+				DBC5930E1C2366D700A0AE5E /* Sources */,
+				DBC5930F1C2366D700A0AE5E /* Frameworks */,
+				DBC593101C2366D700A0AE5E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DBC593141C2366D700A0AE5E /* PBXTargetDependency */,
+			);
+			name = "iOS AssignmentUITests";
+			productName = "iOS AssignmentUITests";
+			productReference = DBC593121C2366D700A0AE5E /* iOS AssignmentUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DBC592E61C2366D600A0AE5E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = Y1473760;
+				TargetAttributes = {
+					DBC592ED1C2366D600A0AE5E = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 2LZ39NG4RS;
+					};
+					DBC593061C2366D700A0AE5E = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = DBC592ED1C2366D600A0AE5E;
+					};
+					DBC593111C2366D700A0AE5E = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = DBC592ED1C2366D600A0AE5E;
+					};
+				};
+			};
+			buildConfigurationList = DBC592E91C2366D600A0AE5E /* Build configuration list for PBXProject "iOS Assignment" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DBC592E51C2366D600A0AE5E;
+			productRefGroup = DBC592EF1C2366D600A0AE5E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DBC592ED1C2366D600A0AE5E /* iOS Assignment */,
+				DBC593061C2366D700A0AE5E /* iOS AssignmentTests */,
+				DBC593111C2366D700A0AE5E /* iOS AssignmentUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DBC592EC1C2366D600A0AE5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DB6A690C1C4427880002733C /* B C#1.wav in Resources */,
+				DB6A69451C4427C80002733C /* C D#2.wav in Resources */,
+				DB6A68E31C4427570002733C /* A E2.wav in Resources */,
+				DB6A691B1C4427880002733C /* B G#1.wav in Resources */,
+				DB6A690A1C4427880002733C /* B B1.wav in Resources */,
+				DB6A68E91C4427570002733C /* A G#2.wav in Resources */,
+				DBF65E531C45BABF00EADD2D /* helpbuttonhighlighted.png in Resources */,
+				DB6A69061C4427880002733C /* B A#1.wav in Resources */,
+				DB6A69501C4427C80002733C /* C G1.wav in Resources */,
+				DB6A697D1C4427E80002733C /* D F#1.wav in Resources */,
+				DB6A68E41C4427570002733C /* A F#1.wav in Resources */,
+				DB6A69741C4427E80002733C /* D C1.wav in Resources */,
+				DB6A697C1C4427E80002733C /* D E2.wav in Resources */,
+				DB6A693C1C4427C80002733C /* C A2.wav in Resources */,
+				DB8322E61C45728C00F6BE5C /* swing drums (fast).wav in Resources */,
+				DB6A690D1C4427880002733C /* B C#2.wav in Resources */,
+				DB6A68E51C4427570002733C /* A F#2.wav in Resources */,
+				DB6A69441C4427C80002733C /* C D#1.wav in Resources */,
+				DB6A69481C4427C80002733C /* C E1.wav in Resources */,
+				DB6A69731C4427E80002733C /* D C#2.wav in Resources */,
+				DB6A69431C4427C80002733C /* C C3.wav in Resources */,
+				DB6A69821C4427E80002733C /* D G#2.wav in Resources */,
+				DB6A69701C4427E80002733C /* D B1.wav in Resources */,
+				DB6A69761C4427E80002733C /* D C3.wav in Resources */,
+				DB6A697B1C4427E80002733C /* D E1.wav in Resources */,
+				DB8322E81C45728C00F6BE5C /* waltz drums (fast).wav in Resources */,
+				DB6A69781C4427E80002733C /* D D#2.wav in Resources */,
+				DB6A690B1C4427880002733C /* B B2.wav in Resources */,
+				DBC593011C2366D600A0AE5E /* LaunchScreen.storyboard in Resources */,
+				DB6A68D91C4427570002733C /* A C#1.wav in Resources */,
+				DB6A69191C4427880002733C /* B F1.wav in Resources */,
+				DB6A694C1C4427C80002733C /* C F1.wav in Resources */,
+				DBF65E4D1C45A5A100EADD2D /* rhythm buttons.png in Resources */,
+				DB6A69091C4427880002733C /* B A2.wav in Resources */,
+				DB6A696C1C4427E80002733C /* D A#1.wav in Resources */,
+				DBC88B6A1C457ACE00033999 /* help button.png in Resources */,
+				DB6A69461C4427C80002733C /* C D1.wav in Resources */,
+				DB8322E41C45728C00F6BE5C /* Pop drums (fast).wav in Resources */,
+				DB6A688B1C4427090002733C /* A A#1.wav in Resources */,
+				DB6A68DD1C4427570002733C /* A C3.wav in Resources */,
+				DB6A69071C4427880002733C /* B A#2.wav in Resources */,
+				DB6A693B1C4427C80002733C /* C A1.wav in Resources */,
+				DBC592FE1C2366D600A0AE5E /* Assets.xcassets in Resources */,
+				DBC592FC1C2366D600A0AE5E /* Main.storyboard in Resources */,
+				DB6A69711C4427E80002733C /* D B2.wav in Resources */,
+				DB6A69171C4427880002733C /* B F#1.wav in Resources */,
+				DB6A69111C4427880002733C /* B D#1.wav in Resources */,
+				DB6A69721C4427E80002733C /* D C#1.wav in Resources */,
+				DB6A69411C4427C80002733C /* C C1.wav in Resources */,
+				DB6537591C30B02A008F27CC /* whitekeyhighlight.png in Resources */,
+				DB6A697F1C4427E80002733C /* D F1.wav in Resources */,
+				DB6A690E1C4427880002733C /* B C1.wav in Resources */,
+				DB11D1D61C4591AE0011ACB2 /* helpscreenbackground.png in Resources */,
+				DB6A68EA1C4427570002733C /* A G1.wav in Resources */,
+				DB6A68D81C4427570002733C /* A B2.wav in Resources */,
+				DB6A69831C4427E80002733C /* D G1.wav in Resources */,
+				DB6A694E1C4427C80002733C /* C G#1.wav in Resources */,
+				DB6A69801C4427E80002733C /* D F2.wav in Resources */,
+				DB6A697A1C4427E80002733C /* D D2.wav in Resources */,
+				DB6A69511C4427C80002733C /* C G2.wav in Resources */,
+				DB7FDA691C32EC4F00F9A4B7 /* blackkeyhighlighted2.png in Resources */,
+				DB6A69771C4427E80002733C /* D D#1.wav in Resources */,
+				DB6A693E1C4427C80002733C /* C B2.wav in Resources */,
+				DB6A68DB1C4427570002733C /* A C1.wav in Resources */,
+				DB6A696E1C4427E80002733C /* D A1.wav in Resources */,
+				DB6A691A1C4427880002733C /* B F2.wav in Resources */,
+				DB6A69121C4427880002733C /* B D#2.wav in Resources */,
+				DB6A693A1C4427C80002733C /* C A#2.wav in Resources */,
+				DB6A694F1C4427C80002733C /* C G#2.wav in Resources */,
+				DB6A691D1C4427880002733C /* B G1.wav in Resources */,
+				DB6A68D51C4427570002733C /* A A1.wav in Resources */,
+				DB89F6DC1C30A64800D01C2F /* whitekey.png in Resources */,
+				DB6A696D1C4427E80002733C /* D A#2.wav in Resources */,
+				DB6A68E01C4427570002733C /* A D1.wav in Resources */,
+				DB6A68DF1C4427570002733C /* A D#2.wav in Resources */,
+				DBC49EE71C42E38F00CA37D2 /* whitebackground.png in Resources */,
+				DB89F6DB1C30A64800D01C2F /* blackkey.png in Resources */,
+				DB6A69471C4427C80002733C /* C D2.wav in Resources */,
+				DB6A69401C4427C80002733C /* C C#2.wav in Resources */,
+				DB25A9941C42E5B9000BDE3A /* whitekeys.png in Resources */,
+				DB8322E91C45728C00F6BE5C /* Waltz drums (slow).wav in Resources */,
+				DB6A69081C4427880002733C /* B A1.wav in Resources */,
+				DBF65E4F1C45B14400EADD2D /* rhythmselecthighlighted.png in Resources */,
+				DBF65E511C45B17600EADD2D /* rhythmbuttonhighlighted.png in Resources */,
+				DB6A68E71C4427570002733C /* A F2.wav in Resources */,
+				DB6A69181C4427880002733C /* B F#2.wav in Resources */,
+				DB6A69161C4427880002733C /* B E2.wav in Resources */,
+				DB6A69751C4427E80002733C /* D C2.wav in Resources */,
+				DB6A690F1C4427880002733C /* B C2.wav in Resources */,
+				DB6A693F1C4427C80002733C /* C C#1.wav in Resources */,
+				DB6A68D71C4427570002733C /* A B1.wav in Resources */,
+				DB6A69131C4427880002733C /* B D1.wav in Resources */,
+				DB6A697E1C4427E80002733C /* D F#2.wav in Resources */,
+				DB5B0DFE1C445A4F005B37D7 /* Bossanova drums (fast).wav in Resources */,
+				DB5B0DFC1C44577D005B37D7 /* logo.png in Resources */,
+				DB6A69421C4427C80002733C /* C C2.wav in Resources */,
+				DB6A68E21C4427570002733C /* A E1.wav in Resources */,
+				DB6A69101C4427880002733C /* B C3.wav in Resources */,
+				DB6A69141C4427880002733C /* B D2.wav in Resources */,
+				DB6A68DC1C4427570002733C /* A C2.wav in Resources */,
+				DB8322E51C45728C00F6BE5C /* Pop drums (slow).wav in Resources */,
+				DB6A693D1C4427C80002733C /* C B1.wav in Resources */,
+				DB6A69491C4427C80002733C /* C E2.wav in Resources */,
+				DB5B0DFA1C44538B005B37D7 /* rhythmbutton.png in Resources */,
+				DB6A694B1C4427C80002733C /* C F#2.wav in Resources */,
+				DB6A68EB1C4427570002733C /* A G2.wav in Resources */,
+				DB6A694A1C4427C80002733C /* C F#1.wav in Resources */,
+				DB6A69391C4427C80002733C /* C A#1.wav in Resources */,
+				DB6A69791C4427E80002733C /* D D1.wav in Resources */,
+				DB6A69151C4427880002733C /* B E1.wav in Resources */,
+				DB6A68E11C4427570002733C /* A D2.wav in Resources */,
+				DB6A68DA1C4427570002733C /* A C#2.wav in Resources */,
+				DB6A691E1C4427880002733C /* B G2.wav in Resources */,
+				DB8322E71C45728C00F6BE5C /* Swing drums (slow).wav in Resources */,
+				DB6A68E61C4427570002733C /* A F1.wav in Resources */,
+				DB6A69811C4427E80002733C /* D G#1.wav in Resources */,
+				DB6A68E81C4427570002733C /* A G#1.wav in Resources */,
+				DB6A68D61C4427570002733C /* A A2.wav in Resources */,
+				DB6A696F1C4427E80002733C /* D A2.wav in Resources */,
+				DB6A69841C4427E80002733C /* D G2.wav in Resources */,
+				DB6A68D41C4427570002733C /* A A#2.wav in Resources */,
+				DB6A68DE1C4427570002733C /* A D#1.wav in Resources */,
+				DB6A691C1C4427880002733C /* B G#2.wav in Resources */,
+				DB6A694D1C4427C80002733C /* C F2.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC593051C2366D700A0AE5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC593101C2366D700A0AE5E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DBC592EA1C2366D600A0AE5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DBC592F91C2366D600A0AE5E /* ViewController.m in Sources */,
+				DBC592F61C2366D600A0AE5E /* AppDelegate.m in Sources */,
+				DBC592F31C2366D600A0AE5E /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC593031C2366D700A0AE5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DBC5930C1C2366D700A0AE5E /* iOS_AssignmentTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DBC5930E1C2366D700A0AE5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DBC593171C2366D700A0AE5E /* iOS_AssignmentUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DBC593091C2366D700A0AE5E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DBC592ED1C2366D600A0AE5E /* iOS Assignment */;
+			targetProxy = DBC593081C2366D700A0AE5E /* PBXContainerItemProxy */;
+		};
+		DBC593141C2366D700A0AE5E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DBC592ED1C2366D600A0AE5E /* iOS Assignment */;
+			targetProxy = DBC593131C2366D700A0AE5E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DBC592FA1C2366D600A0AE5E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DBC592FB1C2366D600A0AE5E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DBC592FF1C2366D600A0AE5E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DBC593001C2366D600A0AE5E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DBC593191C2366D700A0AE5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DBC5931A1C2366D700A0AE5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DBC5931C1C2366D700A0AE5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "iOS Assignment/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-Assignment";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		DBC5931D1C2366D700A0AE5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "iOS Assignment/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-Assignment";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+		DBC5931F1C2366D700A0AE5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "iOS AssignmentTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-AssignmentTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS Assignment.app/iOS Assignment";
+			};
+			name = Debug;
+		};
+		DBC593201C2366D700A0AE5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "iOS AssignmentTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-AssignmentTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS Assignment.app/iOS Assignment";
+			};
+			name = Release;
+		};
+		DBC593221C2366D700A0AE5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "iOS AssignmentUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-AssignmentUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "iOS Assignment";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		DBC593231C2366D700A0AE5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "iOS AssignmentUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "UOY.iOS-AssignmentUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "iOS Assignment";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DBC592E91C2366D600A0AE5E /* Build configuration list for PBXProject "iOS Assignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBC593191C2366D700A0AE5E /* Debug */,
+				DBC5931A1C2366D700A0AE5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DBC5931B1C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS Assignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBC5931C1C2366D700A0AE5E /* Debug */,
+				DBC5931D1C2366D700A0AE5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DBC5931E1C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS AssignmentTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBC5931F1C2366D700A0AE5E /* Debug */,
+				DBC593201C2366D700A0AE5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DBC593211C2366D700A0AE5E /* Build configuration list for PBXNativeTarget "iOS AssignmentUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBC593221C2366D700A0AE5E /* Debug */,
+				DBC593231C2366D700A0AE5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DBC592E61C2366D600A0AE5E /* Project object */;
+}
